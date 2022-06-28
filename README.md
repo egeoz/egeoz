@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Ege.</h1>
-<h3 align="center">A passionate Linux user and junior computer engineer from Turkey.</h3>
+<h3 align="center">A passionate Linux user, open-source enthusiast and junior computer engineer from Istanbul.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egeoz&label=Profile%20views&color=0e75b6&style=flat" alt="egeoz" /> </p>
 
